@@ -1,5 +1,7 @@
 # Reading-movements
-Motor imagery signal processing and classifier basic package. 
+
+<img src="http://www.irimageco.com/wp-content/uploads/2019/01/Under-Construction-Sign-for-Locator-300x141.png" alt="construction"/>
+Motor imagery signal processing and classifier basic MATLAB package. 
 Summer 2021 Entertainment
 
 1.- Introduction: Motor imagery signals
