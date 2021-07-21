@@ -1,5 +1,5 @@
 # Reading-movements
-EEG signal processing and classifier basic package. 
+Motor imagery signal processing and classifier basic package. 
 Summer 2021 Entertainment
 
 1.- Introduction: Motor imagery signals
