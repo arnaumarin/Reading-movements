@@ -14,9 +14,7 @@ The datasets used are from 3 users who are doing 3 different actions. (Word, rig
 Function "calculo_espectro(input, fm)" calculates between 8-30Hz with a 2Hz resolution the spectrum from the input signal. As an example we could calculate the spectrum from a sinussoid signal with or without random noise. 
 
 2.- EEG Processing
-The processing proces consists in the following steps.
-1) load dataset
-2) use of the Processing_function
+Use of the Processing_function
 
 3.- Clasification
 Use of the function clasification. 
