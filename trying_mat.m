@@ -1,15 +1,15 @@
-function output=procesado(sesion)
 
-%name= 'user';
-%num='0093';
-%num2='20040101';
-%test = '04';
-%reg='reg001.mat';
-%user = strcat(name,'#',num,'#',num2,'#',test,'#',reg);
-%load(user)
-%file = 'f1';
+clear all;
+name= 'user';
+num='0093';
+num2='20040101';
+test = '04';
+reg='reg001.mat';
+user = strcat(name,'#',num,'#',num2,'#',test,'#',reg);
+load(user)
+file = 'f1';
 
-%sesion= session;
+sesion= session;
 
 electrodos=[8 32 23 9 22 12 13 19]; % C3, Cz, C4, CP1, CP2, P3, Pz, and P4
 fm=sesion.conf.fm;
@@ -40,3 +40,4 @@ end
 
 
 save str(name,num,file) output;
+
